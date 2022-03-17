@@ -20,14 +20,14 @@ My favourite languages are Python and C# but I have also mastered JavaScript and
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" title="Visual Studio Code" />](https://code.visualstudio.com/)
 [<img align="left" alt="Windows Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/microsoft/terminal/res/terminal/Terminal.svg" style="padding-right:10px;" title="Windows Terminal" />](https://aka.ms/terminal)
-[<img alt="Windows Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />](https://docker.com)
+[<img alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" title="Docker />](https://docker.com)
 
 ### Languages
 
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" title="Python"/>](https://python.org)
 [<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" title="C#" />](https://docs.microsoft.com/dotnet/csharp/)
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" title="JavaScript" />](https://developer.mozilla.org/docs/Web/JavaScript)
-[<img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/fr/docs/Web/html5)
+[<img alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" title="HTML" />](https://developer.mozilla.org/fr/docs/Web/html5)
 [<img align="left"  alt="Fortran" width="26px"
 src="https://cdn.jsdelivr.net/gh/fortran-lang/fortran-lang.org/assets/img/fortran-logo.svg" style="padding-right:10px;" title="Fortran"/>](https://fortran-lang.org)
 
