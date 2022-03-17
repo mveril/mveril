@@ -18,23 +18,23 @@ My favourite languages are Python and C# but I have also mastered JavaScript and
 
 ### Tools
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
-[<img align="left" alt="Windows Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/microsoft/terminal/res/terminal/Terminal.svg" style="padding-right:10px;" />](https://aka.ms/terminal)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" title="Visual Studio Code" />](https://code.visualstudio.com/)
+[<img align="left" alt="Windows Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/microsoft/terminal/res/terminal/Terminal.svg" style="padding-right:10px;" title="Windows Terminal" />](https://aka.ms/terminal)
 [<img alt="Windows Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />](https://docker.com)
 
 ### Languages
 
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://python.org)
-[<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />](https://docs.microsoft.com/dotnet/csharp/)
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/docs/Web/JavaScript)
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" title="Python"/>](https://python.org)
+[<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" title="C#" />](https://docs.microsoft.com/dotnet/csharp/)
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" title="JavaScript" />](https://developer.mozilla.org/docs/Web/JavaScript)
 [<img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/fr/docs/Web/html5)
 [<img align="left"  alt="Fortran" width="26px"
-src="https://cdn.jsdelivr.net/gh/fortran-lang/fortran-lang.org/assets/img/fortran-logo.svg" style="padding-right:10px;" />](https://fortran-lang.org)
+src="https://cdn.jsdelivr.net/gh/fortran-lang/fortran-lang.org/assets/img/fortran-logo.svg" style="padding-right:10px;" title="Fortran"/>](https://fortran-lang.org)
 
 ## Operating systems
 
-[<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />](https://www.linux.org)
-[<img align="left" alt="Windows 11" width="26px" src="https://cdn.jsdelivr.net/gh/railwayapp/devicons/static/i/w11.svg" style="padding-right:10px;" />](https://www.microsoft.com/windows/windows-11)
+[<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" title="Linux"/>](https://www.linux.org)
+[<img align="left" alt="Windows 11" width="26px" src="https://cdn.jsdelivr.net/gh/railwayapp/devicons/static/i/w11.svg" style="padding-right:10px;" title="Windows 11"/>](https://www.microsoft.com/windows/windows-11)
 
 
 
