@@ -18,7 +18,9 @@ My favourite languages are Python and C# but I have also mastered JavaScript and
 
 ### Tools
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" title="Visual Studio Code" />](https://code.visualstudio.com/)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" title="Visual Studio" />](https://code.visualstudio.com/)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" title="Visual Studio" />](https://visualstudio.microsoft.com)
+[<img align="left" alt="vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" title="vim" />](https://www.vim.org)
 [<img align="left" alt="Windows Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/microsoft/terminal/res/terminal/Terminal.svg" style="padding-right:10px;" title="Windows Terminal" />](https://aka.ms/terminal)
 [<img alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" title="Docker" />](https://docker.com)
 
