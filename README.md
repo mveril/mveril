@@ -32,6 +32,9 @@ My favourite languages are Python and C# but I have also mastered JavaScript and
 [<img alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" title="HTML" />](https://developer.mozilla.org/fr/docs/Web/html5)
 [<img align="left"  alt="Fortran" width="26px"
 src="https://cdn.jsdelivr.net/gh/fortran-lang/fortran-lang.org/assets/img/fortran-logo.svg" style="padding-right:10px;" title="Fortran"/>](https://fortran-lang.org)
+[<img align="left"  alt="LaTeX" width="26px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" style="padding-right:10px;" title="LaTeX"/>](https://www.latex-project.org)
+
 
 ## Operating systems
 
