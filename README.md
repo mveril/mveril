@@ -1,6 +1,5 @@
 # mveril
-I'm Mickael Véril Doctor in theoretical physical chemistry and former PhD student at the [Laboratoire de Chimie et Physique Quantique](https://www.lcpq.ups-tlse.fr/) of Toulouse. During this thesis, I worked mainly on the QUEST project and quantum package demo.
-My favourite languages are Python and C# but I have also mastered JavaScript and Fortran.
+I'm Mickael Véril Doctor in theoretical physical chemistry and former PhD student at the [Laboratoire de Chimie et Physique Quantique](https://www.lcpq.ups-tlse.fr/) of Toulouse. I program in C# in my free time and I am currently in reconversion to become a web developer.
 
 ## Connect with me
 <!-- Website-->
