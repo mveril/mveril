@@ -28,6 +28,7 @@ I'm Mickael Véril, Full Stack developer at Sopra Steria Aeroline, Doctor in the
 
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" title="Python"/>](https://python.org)
 [<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" title="C#" />](https://docs.microsoft.com/dotnet/csharp/)
+[<img align="left" alt="Rust" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="padding-right:10px;" title="Rust" />](https://www.rust-lang.org/)
 [<img align="left"  alt="Java" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" title="java"/>](https://www.java.com/)
 [<img align="left" alt="Java Script" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" title="JavaScript" />](https://developer.mozilla.org/docs/Web/JavaScript)
