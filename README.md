@@ -13,6 +13,10 @@ I'm Mickael Véril, Full Stack developer at Sopra Steria Aeroline, Doctor in the
 [<img width="26px" src="https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/master/black/svg/twitter.svg" alt='Twitter' title='Twitter' />](https://www.twitter.com/MikaVeril/#gh-light-mode-only)
 [<img width="26px" src="https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/master/white/svg/twitter.svg" alt='Twitter' title='Twitter' />](https://www.twitter.com/MikaVeril/#gh-dark-mode-only)
 
+## Certifications
+
+[<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="60" height="60">](https://www.credly.com/badges/eb6e6662-7bc3-4996-a35d-b7cf3338e798/public_url)
+
 ## Languages and Tools
 
 ### Tools
@@ -43,8 +47,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg
 
 [<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" title="Linux"/>](https://www.linux.org)
 [<img align="left" alt="Windows 11" width="26px" src="https://cdn.jsdelivr.net/gh/railwayapp/devicons/static/i/w11.svg" style="padding-right:10px;" title="Windows 11"/>](https://www.microsoft.com/windows/windows-11)
-
-
 
 <!--
 **mveril/mveril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
