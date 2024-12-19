@@ -17,6 +17,8 @@ I'm Mickael Véril, Full Stack developer at Sopra Steria Aeroline, Doctor in the
 
 [<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="60" height="60">](https://www.credly.com/badges/eb6e6662-7bc3-4996-a35d-b7cf3338e798/public_url)
 
+[<img src="https://images.credly.com/size/220x220/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="60" height="60">](https://www.credly.com/badges/f82de499-be76-4c01-ad0c-ba478f36d5c0/public_url)
+
 ## Languages and Tools
 
 ### Tools
